@@ -11,4 +11,4 @@ Currently, two official plugins are available:
 - Clone the repo to your system using `git clone git@github.com:abadiyani/To-do-list.git`
 - Checkout the project
 - Run `npm install`
-- Run `npm run start`
+- Run `npm run dev`
